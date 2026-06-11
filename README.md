@@ -21,5 +21,5 @@ projeto com foco em estilização com CSS,simulando um clone da pagina do youTub
 
 ## Autora
 
-- [@cigarraa](https://github.com/cigarraa)
+- [@LauraCirino](https://github.com/LauraCirino)
 
